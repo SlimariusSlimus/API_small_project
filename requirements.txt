@@ -1,6 +1,11 @@
 asgiref
 coverage
-Django
+dj-database-url
 djangorestframework
-psycopg2-binary
+djangorestframework
+gunicorn
+packaging
+psycopg2
+python-dotenv
 sqlparse
+whitenoise
