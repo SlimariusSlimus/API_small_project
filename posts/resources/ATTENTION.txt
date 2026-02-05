@@ -1,0 +1,2 @@
+The list in "profanity_words_list.json" contains SEVERAL very offensive and derogatory words.
+Read with caution or better not at all!

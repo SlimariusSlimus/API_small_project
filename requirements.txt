@@ -1,0 +1,6 @@
+asgiref
+coverage
+Django
+djangorestframework
+psycopg2-binary
+sqlparse
